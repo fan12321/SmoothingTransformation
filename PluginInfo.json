@@ -1,0 +1,9 @@
+{
+    "name": "Smoothing Transformation",
+    "version": {
+        "plugin": "0.1",
+        "core": ["1.5"]
+    },
+    "type": "Transformation",
+    "dependencies": ["Points"]
+}
